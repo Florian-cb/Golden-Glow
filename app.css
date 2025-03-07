@@ -53,8 +53,6 @@ nav {
     margin-bottom: 100px;
 }
 
-
-
 @media (max-width: 1200px) {
     #headingGroup h1 {
         font-weight: 100;
@@ -62,18 +60,3 @@ nav {
         font-size: 3rem;
     }
 }
-
-/* Light Cream: #FFF8E1
-(Great for backgrounds—creates a soft, neutral base that mimics a natural tan.)
-
-Warm Tan: #F5E1B9
-(A gentle, warm tone that evokes the feeling of a fresh, natural spray tan.)
-
-Bronze: #D4A373
-(Ideal for buttons and calls-to-action, giving a subtle shine that suggests luxury.)
-
-Rich Copper: #B26E3F
-(Use as an accent color to add depth and a touch of sophistication.)
-
-Dark Brown: #4A3E36
-(Perfect for text and details, providing strong contrast without feeling harsh.) */
